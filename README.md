@@ -5,7 +5,7 @@ About me:
 :earth_africa: I care about the earth and sustainability <br/>
 :computer: I enjoy coding ;) <br/>
 :video_game: I enjoy making and playing video games <br/>
-💡 Interested in collaborating and working on projects that make the world a better place! <br/>
+:bulb: Interested in collaborating and working on projects that make the world a better place! <br/>
 :mortar_board: Graduate of Games Programming at Goldsmiths University of London <br/>
 :mortar_board: Graduating from Boolean Full Stack Bootcamp soon! <br/>
 🔍 Looking for roles as a Junior Software Dev <br/>
