@@ -1,15 +1,15 @@
-Hi I'm Seeb
----
-About me:
----
-:earth_africa: I care about the earth and sustainability <br/>
-:computer: I enjoy coding ;) <br/>
-:video_game: I enjoy making and playing video games <br/>
-⚽ I am a huge Football fan<br/>
-🌍 Interested in collaborating and working on projects that make the world a better place! <br/>
-:mortar_board: Graduate of Games Programming at Goldsmiths University of London <br/>
-:mortar_board: Graduating from Boolean Full Stack Bootcamp soon! <br/>
-🔍 Looking for roles as a Junior Software Dev <br/>
+<h1>Hi I'm Seeb</h1>
+
+<h2>About me:</h2>
+
+<p  className="bob">:earth_africa: I care about the earth and sustainability </p>
+<p  className="bob">:computer: I enjoy coding ;)  </p>
+<p  className="bob">:video_game: I enjoy making and playing video games</p>
+<p  className="bob">⚽ I am a huge Football fan</p>
+<p  className="bob">🌍 Interested in collaborating and working on projects that make the world a better place! </p>
+<p  className="bob">:mortar_board: Graduate of Games Programming at Goldsmiths University of London </p>
+<p  className="bob">:mortar_board: Graduating from Boolean Full Stack Bootcamp soon! </p>
+<p  className="bob">🔍 Looking for roles as a Junior Software Dev </p>
 
 ---
 🧰 
@@ -20,7 +20,6 @@ About me:
 
 
 ---
-
 
 
 
