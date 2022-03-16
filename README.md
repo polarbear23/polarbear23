@@ -1,6 +1,6 @@
-### Hi I'm Seeb
+Hi I'm Seeb
 ---
-### About me
+About me:
 ---
 :earth_africa: I care about the earth and sustainability <br/>
 :computer: I enjoy coding ;) <br/>
