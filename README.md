@@ -3,7 +3,7 @@
 <h2>About me:</h2>
 
 <p  className="bob">:earth_africa: I care about the earth and sustainability </p>
-<p  className="bob">:computer: I enjoy coding ;)  </p>
+<p  className="bob">:computer: I enjoy coding 😜  </p>
 <p  className="bob">:video_game: I enjoy making and playing video games</p>
 <p  className="bob">⚽ I am a huge Football fan</p>
 <p  className="bob">🌍 Interested in collaborating and working on projects that make the world a better place! </p>
