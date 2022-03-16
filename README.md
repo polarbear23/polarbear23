@@ -10,4 +10,6 @@
 - 📫 How to reach me: ...
 -->
 
-[![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarbear23&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarbear23&theme=great-gatsby&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarbear23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
