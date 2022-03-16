@@ -10,4 +10,4 @@
 - 📫 How to reach me: ...
 -->
 
-[![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarbear23)](https://github.com/anuraghazra/github-readme-stats)
+[![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarbear23&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
